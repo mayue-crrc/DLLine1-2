@@ -1,0 +1,18 @@
+Warning: Now I put button in page 0
+Warning: Now I put button in page 0
+Debug: Now I put button in page 0
+Debug: Now I put button in page 0
+Debug: Now I put button in page 0Now I put button in page 0Now I put button in page 0Now I put button in page 0
+Debug: Now I put button in page 0Now I put button in page 0Now I put button in page 0Now I put button in page 0
+Debug: main.cppmain.cpp16Now I put button in page 0
+Debug: main.cppmain.cpp16Now I put button in page 0
+Debug: 10:49:45 main.cpp 16  Now I put button in page 0
+Debug: Oct  8 2013 10:54:55 An Error at: File:main.cpp    Line: 17  Now I put button in page 0
+Debug: Oct  8 2013 10:54:55 An Error at: File:main.cpp    Line: 17  system.ini not found!
+Debug: Oct  8 2013 10:54:55 An Error at: File:main.cpp    Line: 17  Now I put button in page 0
+Warning: system.ini not found!
+Debug: Oct  8 2013 10:54:55 An Error at: File:main.cpp    Line: 17  Now I put button in page 0
+Warning: 2013-10-8 18:36:35 An Error at: File:main.cpp    Line: 22  system.ini not found!
+Debug: Oct  8 2013 18:36:26 An Error at: File:main.cpp    Line: 17  Now I put button in page 0
+Warning: 2013-10-8 18:38:16 An Error at: File:main.cpp    Line: 22  system.ini not found!
+Debug: 18:38:18 18:38:18 An Error at: File:main.cpp    Line: 17  Now I put button in page 0
